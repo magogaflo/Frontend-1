@@ -1,3 +1,3 @@
 # Frontend-1
 ## Lemon Pie
-https://magogaflo.github.io/Frontend-1/
+https://magogaflo.github.io/Frontend-1/LemonPie
